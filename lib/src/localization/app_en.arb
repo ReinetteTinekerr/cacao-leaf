@@ -1,0 +1,6 @@
+{
+  "appTitle": "cacao_leaf_detector",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
